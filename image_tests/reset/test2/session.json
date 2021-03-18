@@ -1,0 +1,2824 @@
+{
+    "application": "Orbitvu Station 2018 18.0.21",
+    "images_2d": [
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.5363005050505051,
+                "width": 0.476010101010101,
+                "x": 0.26198235840297135,
+                "y": 0.23178321678321678
+            },
+            "column": 0,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.5364335664335664,
+                "width": 0.4760352831940573,
+                "x": 0.26198235840297135,
+                "y": 0.23178321678321678
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 0,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "2d_01_00001.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.5363005050505051,
+                "width": 0.476010101010101,
+                "x": 0.26198235840297135,
+                "y": 0.23178321678321678
+            },
+            "column": 1,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.5364335664335664,
+                "width": 0.4760352831940573,
+                "x": 0.26198235840297135,
+                "y": 0.23178321678321678
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 0,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "2d_01_00002.jpg"
+            },
+            "row": 0
+        }
+    ],
+    "images_360": [
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 0,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 0,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00001.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 1,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 30,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00002.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 2,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 60,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00003.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 3,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 90,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00004.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 4,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 120,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00005.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 5,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 149.98,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00006.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 6,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 180,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00007.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 7,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 210,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00008.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 8,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 240,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00009.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 9,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 270,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00010.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 10,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 300,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00011.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 11,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 330,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_01_00012.jpg"
+            },
+            "row": 0
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 0,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 0,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00001.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 1,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 30,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00002.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 2,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 60,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00003.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 3,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 90,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00004.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 4,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 120,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00005.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 5,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 150,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00006.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 6,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 180,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00007.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 7,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 210,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00008.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 8,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 240,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00009.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 9,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 269.98,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00010.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 10,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 300,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00011.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 11,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 330,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_02_00012.jpg"
+            },
+            "row": 1
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 0,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 0,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00001.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 1,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 30,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00002.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 2,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 60,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00003.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 3,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 90,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00004.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 4,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 120,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00005.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 5,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 150,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00006.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 6,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 180,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00007.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 7,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 210,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00008.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 8,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 240,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00009.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 9,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 269.98,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00010.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 10,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 300,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00011.jpg"
+            },
+            "row": 2
+        },
+        {
+            "bounding_rectangle_recalc": {
+                "height": 0.9700126262626263,
+                "width": 0.9699074074074074,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "column": 11,
+            "correct_recalc_bounding_rectangle": true,
+            "cropping_rectangle_lv": {
+                "height": 0.97,
+                "width": 0.97,
+                "x": 0.015000000000000013,
+                "y": 0.015000000000000013
+            },
+            "image_orientation": 0,
+            "main": {
+                "camera_params": {
+                    "aperture": "13",
+                    "hw_id": "370101840",
+                    "img_quality": "Jpeg Large Fine",
+                    "index": 0,
+                    "iso": "200",
+                    "name": "Canon EOS REBEL T1i",
+                    "shutter_speed": "1/30",
+                    "white_balance": "Manual",
+                    "white_balance_blue_amber": "0",
+                    "white_balance_green_magenta": "0"
+                },
+                "device_params": {
+                    "light": {
+                        "firmware_version": "1.1.3",
+                        "lights": [
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 100
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 0
+                            },
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    },
+                    "turntable": {
+                        "angle": 330,
+                        "firmware_version": "1.1.3",
+                        "name": "ALPHASHOT MICRO",
+                        "pid": 16,
+                        "serial_number": "1.13"
+                    }
+                },
+                "filename": "360_03_00012.jpg"
+            },
+            "row": 2
+        }
+    ],
+    "session": {
+        "date": "2019-03-19 13:40:42.192192",
+        "name": "BGTest7"
+    },
+    "version": 1
+}
